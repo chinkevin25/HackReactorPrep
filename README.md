@@ -1,2 +1,0 @@
-# HackReactorPrep
-Hack Reactor Prep
